@@ -15,7 +15,7 @@ For my teaching work, you can visit my [work-based GitHub profile](https://githu
 ## ⟐ Featured Projects
 
 ### ⌑ Ryana – Your Second Mind for Code
-[Repo](https://github.com/jesselsookha/ryana) | [Pages](https://jsookha.github.io/ryana/) |
+[Repo](https://github.com/jsookha/ryana) | [Pages](https://jsookha.github.io/ryana/) |
 
 A **Progressive Web App (PWA)** designed for IT students to store and manage code snippets, document errors, and track progress across multiple languages.  
 
@@ -27,7 +27,7 @@ Ryana supports the self-directed learner with an offline-first tool for managing
 ---
 
 ### ⌑ Pathfinder – AI Learning Compass
-[Repo](https://github.com/jesselsookha/pathfinder) | [Pages](https://jsookha.github.io/Pathfinder-AI-Learning-Compass/) |
+[Repo](https://github.com/jsookha/Pathfinder-AI-Learning-Compass) | [Pages](https://jsookha.github.io/Pathfinder-AI-Learning-Compass/) |
 
 Pathfinder is an AI learning compass that guides both parents and students through the maze of artificial intelligence in education.  
 
@@ -39,7 +39,7 @@ Pathfinder provides a roadmap that encourages deeper thinking and prevents passi
 ---
 
 ### ⌑ ZetteNote
-[Repo](https://github.com/jesselsookha/zettenote) | [Pages](https://jsookha.github.io/ZetteNote/) |
+[Repo](https://github.com/jsookha/ZetteNote) | [Pages](https://jsookha.github.io/ZetteNote/) |
 
 ZetteNote helps students organize, search, and link their study notes efficiently, inspired by the Zettelkasten method.
 
@@ -51,7 +51,7 @@ ZetteNote helps students visualize connections and organize learning for long-te
 ---
 
 ### ⌑ ASCII Box Drawing
-[Repo](https://github.com/jesselsookha/box-drawing)
+[Repo](https://github.com/jsookha/ASCII-Box-Drawing)
 
 A toolkit for using **ASCII and Unicode box-drawing characters** in programming, documentation, and UI wireframes.  
 
