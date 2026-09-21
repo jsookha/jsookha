@@ -30,15 +30,18 @@ For curriculum-focused teaching resources, visit my [work-based GitHub profile](
 
 ### A little more about the featured projects
 
-\<details\> \<summary\>\<strong\>⌑ Ryana\</strong\>\</summary\> Ryana is built around the idea that learning to program involves more than collecting finished solutions. It provides students with a place to record snippets, errors, observations, and progress — creating a personal programming knowledge base.
+#### ⌑ Ryana 
+Ryana is built around the idea that learning to program involves more than collecting finished solutions. It provides students with a place to record snippets, errors, observations, and progress — creating a personal programming knowledge base.
 
-\</details\> \<details\> \<summary\>\<strong\>⌑ Pathfinder\</strong\>\</summary\> Pathfinder explores how AI can be approached as something to understand rather than simply consume. It provides a roadmap for parents and students navigating the rapidly changing landscape of AI and education.
+#### ⌑ Pathfinder
+Pathfinder explores how AI can be approached as something to understand rather than simply consume. It provides a roadmap for parents and students navigating the rapidly changing landscape of AI and education.
 
-\</details\> \<details\> \<summary\>\<strong\>⌑ ZetteNote\</strong\>\</summary\> ZetteNote applies ideas from the Zettelkasten method to student learning, encouraging notes to become connected pieces of knowledge rather than isolated documents.
+#### ⌑ ZetteNote
+ZetteNote applies ideas from the Zettelkasten method to student learning, encouraging notes to become connected pieces of knowledge rather than isolated documents.
 
-\</details\> \<details\> \<summary\>\<strong\>⌑ ASCII Box Drawing\</strong\>\</summary\> A practical reference for one of my favourite areas of digital typography: using ASCII and Unicode characters to create diagrams, interfaces, documentation, and visual structures directly in text.
+#### ⌑ ASCII Box Drawing
+A practical reference for one of my favourite areas of digital typography: using ASCII and Unicode characters to create diagrams, interfaces, documentation, and visual structures directly in text.
 
-\</details\>
 ---
 
 ## ⊕ Academic Tools & Side Projects
@@ -118,23 +121,7 @@ Collaboration and constructive feedback are always welcome.
 
 ---
 
-## ⊕ Currently Exploring
-
-**AI × Education**
-How can AI support deeper learning rather than passive consumption?
-
-**Knowledge Systems**
-Exploring connections between Zettelkasten, programming notes, and
-student learning.
-
-**Creative Computing**
-ASCII, Unicode, text interfaces, visual documentation, and small tools.
-
-**Developer Experience**
-Building simple tools that make programming easier to learn and teach.
-
----
- ## ∎ Closing Thought
+## ∎ Closing Thought
 
 > _“Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.”_\
 >  — Marianne Williamson, _A Return to Love_
